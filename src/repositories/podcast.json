@@ -1,0 +1,20 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "CBUM-flow #302",
+        "videoId": "ZIyB9e_7a4c",
+        "categories": ["saude", "esporte", "bodybuilder"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "RUBENS BARRICHUELO- Flow #339",
+        "videoId": "BIyH0e_6g5c",
+        "categories": ["corrida", "esporte"]
+    },
+    {
+        "podcastName": "venus",
+        "episode": "Marckendy - Flow #339",
+        "videoId": "BIyH0e_6g5c",
+        "categories": ["corrida", "programacao"]
+    }
+]
